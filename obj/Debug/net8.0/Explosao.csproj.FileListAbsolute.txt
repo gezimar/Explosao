@@ -1,0 +1,14 @@
+C:\Users\gezimar\Downloads\AtividadesAula\Explosao\bin\Debug\net8.0\Explosao.exe
+C:\Users\gezimar\Downloads\AtividadesAula\Explosao\bin\Debug\net8.0\Explosao.deps.json
+C:\Users\gezimar\Downloads\AtividadesAula\Explosao\bin\Debug\net8.0\Explosao.runtimeconfig.json
+C:\Users\gezimar\Downloads\AtividadesAula\Explosao\bin\Debug\net8.0\Explosao.dll
+C:\Users\gezimar\Downloads\AtividadesAula\Explosao\bin\Debug\net8.0\Explosao.pdb
+C:\Users\gezimar\Downloads\AtividadesAula\Explosao\obj\Debug\net8.0\Explosao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gezimar\Downloads\AtividadesAula\Explosao\obj\Debug\net8.0\Explosao.AssemblyInfoInputs.cache
+C:\Users\gezimar\Downloads\AtividadesAula\Explosao\obj\Debug\net8.0\Explosao.AssemblyInfo.cs
+C:\Users\gezimar\Downloads\AtividadesAula\Explosao\obj\Debug\net8.0\Explosao.csproj.CoreCompileInputs.cache
+C:\Users\gezimar\Downloads\AtividadesAula\Explosao\obj\Debug\net8.0\Explosao.dll
+C:\Users\gezimar\Downloads\AtividadesAula\Explosao\obj\Debug\net8.0\refint\Explosao.dll
+C:\Users\gezimar\Downloads\AtividadesAula\Explosao\obj\Debug\net8.0\Explosao.pdb
+C:\Users\gezimar\Downloads\AtividadesAula\Explosao\obj\Debug\net8.0\Explosao.genruntimeconfig.cache
+C:\Users\gezimar\Downloads\AtividadesAula\Explosao\obj\Debug\net8.0\ref\Explosao.dll
